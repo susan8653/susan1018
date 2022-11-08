@@ -6,3 +6,6 @@ url: https://susan8653.github.io/susan1018
 
 aux_links:
   Template Repository: https://github.com/susan8653/susan1018
+
+plugins:
+  - jekyll-default-layout
