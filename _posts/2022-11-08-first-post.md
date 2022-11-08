@@ -1,3 +1,9 @@
+---
+title: "First data analysis!"
+date: 2022-11-08 15:51:25 -0400
+categories: jekyll update
+---
+
 {
  "cells": [
   {
