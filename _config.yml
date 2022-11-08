@@ -1,6 +1,7 @@
 title: sunwoo blog
 description: dsml blog
-theme: just-the-doc
+#theme: just-the-doc
+remote_theme: "pmarsceill/just-the-docs"
 
 url: https://susan8653.github.io/susan1018
 
